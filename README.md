@@ -1,3 +1,7 @@
+# Introduction
+
+I use this application to generate the audio for the videos that I create that I upload to YouTube.      
+
 
 # Getting Started
 
